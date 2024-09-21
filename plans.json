@@ -1,0 +1,134 @@
+[
+    {
+        "planType": "1",
+        "Description": "All Plans"
+    },
+    {
+        "planType": "2",
+        "Description": "Full Talktime"
+    },
+    {
+        "planType": "3",
+        "Description": "Topup"
+    },
+    {
+        "planType": "4",
+        "Description": "Validity Recharge"
+    },
+    {
+        "planType": "5",
+        "Description": "Local SMS Pack"
+    },
+    {
+        "planType": "6",
+        "Description": "SMS"
+    },
+    {
+        "planType": "7",
+        "Description": "General SMS Pack"
+    },
+    {
+        "planType": "8",
+        "Description": "3G"
+    },
+    {
+        "planType": "9",
+        "Description": "Data"
+    },
+    {
+        "planType": "10",
+        "Description": "Lifetime Validity"
+    },
+    {
+        "planType": "11",
+        "Description": "Night Packs"
+    },
+    {
+        "planType": "12",
+        "Description": "Unlimited Talktime"
+    },
+    {
+        "planType": "13",
+        "Description": "Local Call"
+    },
+    {
+        "planType": "14",
+        "Description": "STD"
+    },
+    {
+        "planType": "15",
+        "Description": "ISD"
+    },
+    {
+        "planType": "16",
+        "Description": "Rate Cutter"
+    },
+    {
+        "planType": "17",
+        "Description": "Special Offer"
+    },
+    {
+        "planType": "18",
+        "Description": "4G"
+    },
+    {
+        "planType": "19",
+        "Description": "Monthly"
+    },
+    {
+        "planType": "20",
+        "Description": "3 Month"
+    },
+    {
+        "planType": "21",
+        "Description": "6 Month"
+    },
+    {
+        "planType": "22",
+        "Description": "Annual"
+    },
+    {
+        "planType": "23",
+        "Description": "Channel"
+    },
+    {
+        "planType": "24",
+        "Description": "Popular"
+    },
+    {
+        "planType": "30",
+        "Description": "121 Made For You"
+    },
+    {
+        "planType": "31",
+        "Description": "Best Offers"
+    },
+    {
+        "planType": "41",
+        "Description": "Jio Phone"
+    },
+    {
+        "planType": "42",
+        "Description": "Smart Phone"
+    },
+    {
+        "planType": "43",
+        "Description": "MNP"
+    },
+    {
+        "planType": "45",
+        "Description": "DataAddon"
+    },
+    {
+        "planType": "46",
+        "Description": "InternationalRoaming"
+    },
+    {
+        "planType": "47",
+        "Description": "JIO CRICKET PLANS"
+    },
+    {
+        "planType": "48",
+        "Description": "Popular (For JIO)"
+    }
+]
